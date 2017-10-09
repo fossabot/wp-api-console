@@ -1,4 +1,6 @@
 # WordPress.com API Console v3
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwp-api-console.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwp-api-console?ref=badge_shield)
+
 
 This is a WIP rewrite in React of [the WordPress.com API Console](https://github.com/Automattic/rest-api-console2).
 
@@ -121,3 +123,6 @@ If you want to quickly deploy the console to [Surge](https://surge.sh), just run
 ## License
 
 All source code is licensed under [GNU General Public License v2 (or later)](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwp-api-console.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwp-api-console?ref=badge_large)
